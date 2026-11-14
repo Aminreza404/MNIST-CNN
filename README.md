@@ -12,7 +12,7 @@ Each image is a grayscale image with a resolution of **28 × 28 pixels**. The da
 
 Here are some examples from the MNIST dataset used in this project:
 
-![MNIST Dataset](images/MNIST_dataset.png)
+![MNIST Dataset](Images/MNIST_dataset.png)
 
 ## CNN Model
 
@@ -60,13 +60,13 @@ The model performance was monitored during training using both accuracy and loss
 
 The following figure shows the training and test accuracy over the training epochs.
 
-![Accuracy vs Epoch](images/Accuracy_vs_epoch.png)
+![Accuracy vs Epoch](Images/Accuracy_vs_epoch.png)
 
 ### Loss Function
 
 The following figure shows the training and test loss during training.
 
-![Loss Function](images/Loss_function.png)
+![Loss Function](Images/Loss_function.png)
 
 ## Prediction
 
@@ -74,7 +74,7 @@ After training, the model was evaluated on unseen test images.
 
 The following figure shows the predicted digit and the corresponding true label for each test image.
 
-![Prediction Results](images/Predicted.png)
+![Prediction Results](Images/Predicted.png)
 
 ## Technologies
 
